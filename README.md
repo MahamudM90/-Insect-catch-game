@@ -1,2 +1,2 @@
 # -Insect-catch-game
-This is a Small Game.
+This is a Small Sitr of Gaming.
